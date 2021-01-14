@@ -90,7 +90,7 @@ header {
 }
 .ex:hover .ex2{
     display: block;
-    box-shadow: 10px 20px 20px 500px rgba(14, 196, 151, 0.575);
+    box-shadow: 10px 20px 20px 500px #fffbf0d8;
 }
 .ex:hover{
     display: block;
@@ -113,3 +113,4 @@ footer{
     color: rgb(0, 0, 0);
     padding-bottom: 20px;
 }
+/* Footer Area End  */
